@@ -1,0 +1,45 @@
+.iframe1{
+  padding: 60px;
+  border-style: none ;
+  position: absolute;
+  background-color: black;
+}
+.para{
+    font-size: x-large;
+    color:rgb(234, 220, 199);
+
+}
+.h{
+    font-size: 70px;
+    color:burlywood ;
+
+}
+.b{
+    border-radius: 12px;
+    background-color: burlywood;
+    border:none;
+    font-size: medium;
+    color: black;
+    padding:12px 28px;
+    display:inline-block;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+    position: fixed;
+}
+.b:hover{
+    color: burlywood;
+    background-color: black;
+    border-color: burlywood;
+    border: 2px solid;
+
+}
+.body{
+    background-color:black;
+}
+img{
+    border: none;
+    padding-top: 90px;
+    padding-left: 60px;
+    size: medium;
+}
