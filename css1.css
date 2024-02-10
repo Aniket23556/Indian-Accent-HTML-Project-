@@ -1,5 +1,5 @@
 .iframe1{
-  padding: 60px;
+  padding: 40px;
   border-style: none ;
   position: absolute;
   background-color: black;
@@ -39,7 +39,24 @@
 }
 img{
     border: none;
-    padding-top: 90px;
+    padding-top: 70px;
     padding-left: 60px;
     size: medium;
 }
+
+header {
+    background-color: black;
+    color: #fff;
+    /* padding: 10px; */
+    width: 5px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .back-button {
+    margin-top: 10px;
+    text-decoration: none;
+    color: #fff;
+    margin-left: 20px;
+    font-size: 20px;
+  }
