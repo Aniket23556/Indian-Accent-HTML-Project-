@@ -63,7 +63,6 @@ body{
     color: black;
     cursor: default;
     text-align: justify;
-    position: fixed;
 }
 
 .b:hover{
@@ -75,7 +74,15 @@ body{
 }
 
 .d3{
-    position: absolute;
-    right: 250px;
-    bottom: 94.5px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
 }
+
+.d4{
+    margin-left: 80px;
+    margin-right: 0px;
+    text-align: center ;
+    padding-top: 10%
+}
+
